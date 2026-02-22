@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @porter-peterson
-- 👀 I’m interested in programming and creating new applications
+### 👋 Hi, I’m @porter-peterson & I'm a frontend-focused full-stack developer
 
-<!---
-porter-peterson/porter-peterson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about creating intuitive, responsive, and easy-to-use web applications!
+
+Reach out to me on LinkedIn if you want to connect or talk about any of my projects
