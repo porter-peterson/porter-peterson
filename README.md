@@ -15,4 +15,4 @@ I'm a software developer and computer science student passionate about building 
 ### How to Reach Me
 The best way to get in touch is through LinkedIn, or take a look at my portfolio website.
 * **LinkedIn:** [linkedin.com/in/porter-peterson](https://linkedin.com/in/porter-peterson)
-* **Portfolio:** [porter-peterson.github.io](https://porter-peterson.github.io)
+* **Portfolio:** [porter-peterson.github.io/portfolio](https://porter-peterson.github.io/portfolio)
